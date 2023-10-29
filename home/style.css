@@ -77,7 +77,7 @@
 }
 body {
     font-size: 15pt;
-    background-color:linear-gradient(to right, rgba(255, 128, 0, 1), rgba(255, 0, 255, 0.74));    
+    background-color:#00ced1;    
 }
 .title { 
    margin-right: auto; 
